@@ -131,3 +131,7 @@ yum update -y
 yum install httpd
 systemctl start httpd
 
+Addtional Repos:
+https://github.com/in28minutes/spring-microservices-v3/blob/main/04.docker/backup/docker-compose-05-zipkin.yaml
+https://github.com/in28minutes/spring-microservices-v3/tree/main/04.docker/01-step-by-step-changes#docker-compose
+https://github.com/in28minutes/spring-microservices-v3/blob/main/v3-upgrade.md
